@@ -1,4 +1,4 @@
-# Ray Tracing Experimentation
+# tracing-with-ray
 4th Homework Assignment for Interactive Computer Graphics
 
 I used Microsoft Visual Studio 2017 and needed to download the eigen3.3.7 library and unpack it into my HWK4 folder. In Microsoft VS 2017, I created Include links to eigen3.3.7, and to the include folder in the COSC4370 (Hwk 4) folder. This homework can be compiled via the debugger in Visual Studio 2017 - compiling should produce a blue cylinder and a green cube. Both the cylinder and cube should have different colors, phong shading, the sphere should cast a shadow on the cylinder, and they should be both reflected onto the bottom of the image frame.
